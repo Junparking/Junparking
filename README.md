@@ -9,6 +9,8 @@ Junparking/Junparking is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+- 👋 Hi, I’m @Junparking
+- 👀 I’m interested in DataScience,AI
 
 ### Platforms & Languages
 
@@ -30,10 +32,6 @@ You can click the Preview link to take a look at your changes.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white)
-
-- 👋 Hi, I’m @Junparking
-- 👀 I’m interested in DataScience
-
 
 
 ### Tools
