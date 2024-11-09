@@ -9,8 +9,10 @@ Junparking/Junparking is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m @Junparking
-- 👀 I’m interested in DataScience,AI
+- 👋 Hi, I’m @Junparking.
+- I thrive in collaborative environments and am comfortable working with individuals from diverse backgrounds.😀
+- 👀 I’m interested in DataScience,
+   - Computer Vision : Object detection , Generative AI , Understanding Video
 
 ### Platforms & Languages
 
